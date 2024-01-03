@@ -1,9 +1,37 @@
-* {
-    background-color: rgb(237, 237, 237);
+body {
+    background:rgb(169, 169, 169);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.card{
+    background-color: white;
+    padding: 10px;
+    width: 400px;
+    margin: auto;
+}
+
+.title{
+    background: rgb(232, 232, 232);
+    margin-top: 0;
+    margin-bottom: 8px;
+    padding: 8px 10px;
+}
+
+.image{
+    display: block;
+    border: 2px solid;
+    margin-left: auto;
+    margin-right: auto;
+    width: 394px;
+    margin-bottom: 8px;
+}
+
+.linkcard{
+    background:rgb(232, 232, 232);
+    padding: 1px;
+}
+
 .links {
-    color: red;
+    color: rgb(94, 94, 94);
     font-weight: bold;
 }
