@@ -6,7 +6,7 @@ body {
 .card{
     background-color: white;
     padding: 10px;
-    width: 400px;
+    width: 500px;
     margin: auto;
 }
 
@@ -22,7 +22,8 @@ body {
     border: 2px solid;
     margin-left: auto;
     margin-right: auto;
-    width: 394px;
+    width: 494px;
+    height: auto;
     margin-bottom: 8px;
 }
 
@@ -34,4 +35,11 @@ body {
 .links {
     color: rgb(94, 94, 94);
     font-weight: bold;
+}
+
+.ingredients {
+    background: rgb(232, 232, 232);
+    padding: 8px;
+    padding-top: 1px;
+    font-size: smaller;
 }
